@@ -1,17 +1,16 @@
 const topupgopay = (prefix) => { 
-	return `*HALLO KAKðŸ‘‹*
+	return `*HALLO KAKÃ°Å¸â€˜â€¹*
 *PILIH DIBAWAH YA!!!*
-• 5k
-• 10k
-• 20k
-• 30k
-• 40k
-• 50k
-• 60k
-• 70k
-• 80k
-• 90k
-• 100k
+â€¢ 10k
+â€¢ 20k
+â€¢ 30k
+â€¢ 40k
+â€¢ 50k
+â€¢ 60k
+â€¢ 70k
+â€¢ 80k
+â€¢ 90k
+â€¢ 100k
 *minat? hub :* http://wa.me/${nomorowner}
 `
 }
